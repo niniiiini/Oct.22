@@ -39,7 +39,7 @@ p{
 }
 
 a{
-	color: #970000;
+	color: #d1b518;
 	font-weight: bold;
 	text-decoration: none;
 }
@@ -88,7 +88,7 @@ a:hover{
 }
 
 .as-menu{
-	background: url(images/menu_bg.jpg) no-repeat 0 0;
+	background: url(images/menu.png) no-repeat 0 0;
 	width: 896px;
 	padding: 0 60px;
 	height: 64px;
@@ -121,7 +121,7 @@ a:hover{
 .as-read-more{
 	float: right;
 	font-size: 18px;
-	color: #970000;
+	color: #5c5858;
 }
 
 /*header*/
@@ -167,7 +167,7 @@ a:hover{
 
 .as-title-column{
 	font-size: 30px;
-	color: #970000;
+	color: #3755ffd5;
 	padding: 24px 0;
 }
 
@@ -229,7 +229,7 @@ a:hover{
 
 .as-title-pic{
 	font-size: 30px;
-	color: #970000;
+	color: #dac407;
 }
 
 .as-title-picr{
